@@ -1,0 +1,11 @@
+.mar20{
+	margin-top: 20%;
+}
+.centerImg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.noDisplay{
+	display: none;
+}
